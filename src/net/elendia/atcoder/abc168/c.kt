@@ -1,4 +1,4 @@
-package net.elendia.atcoder
+package net.elendia.atcoder.abc168
 
 import kotlin.math.PI
 import kotlin.math.sqrt

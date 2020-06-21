@@ -1,4 +1,4 @@
-package net.elendia.atcoder;
+package net.elendia.atcoder.abc168
 
 fun main() {
     val n = readLine()!!.toInt()

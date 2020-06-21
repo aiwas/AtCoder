@@ -1,4 +1,4 @@
-package abc171;
+package net.elendia.atcoder.abc171;
 
 import java.util.Arrays;
 import java.util.Scanner;
